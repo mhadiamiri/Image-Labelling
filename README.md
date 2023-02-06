@@ -8,7 +8,7 @@ archive called EnglishImg.tgz, gzipped tar archive which you can extract with, e
 7-zip.
 This archive contains a Bmp folder in EnglishImg/English/Img/GoodImg where you can and
 62 subdirectories for each lower and upper case character in the latin alphabet (without accents)
-and for the digits. The color images are of dierent size and contains background. The archive
+and for the digits. The color images are of different size and contains background. The archive
 also contains binary foreground-background masks in the Folder Msk for all images.
 In this assignment, you will train binary and multiclass linear classifiers available from scikit-
 learn on this dataset and evaluate the performance of these classifiers with various metrics.
